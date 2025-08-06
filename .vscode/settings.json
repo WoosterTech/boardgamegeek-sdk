@@ -1,5 +1,9 @@
 {
     "[python]": {
         "editor.rulers": [100]
-    }
+    },
+    "conventionalCommits.scopes": [
+        "copier",
+        "vscode"
+    ]
 }
