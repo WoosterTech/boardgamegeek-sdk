@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier. Do not edit manually.
+_commit: 8c81ede
+_src_path: gh:WoosterTech/simple-modern-uv
+package_author_email: karl@woostertech.com
+package_author_name: Karl Wooster
+package_description: changeme
+package_github_org: WoosterTech
+package_module: bgg
+package_name: boardgamegeek-sdk
