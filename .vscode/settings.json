@@ -2,6 +2,7 @@
     "[python]": {
         "editor.rulers": [100]
     },
+    "python.languageServer": "None",
     "conventionalCommits.scopes": [
         "copier",
         "vscode"
